@@ -1,5 +1,111 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<YealinkIPPhoneBook>
-  <Title>Yealink</Title>
-  <Menu Name=""/>
-</YealinkIPPhoneBook>
+<vp_contact>
+  <root_group>
+    <group display_name=""/>
+  </root_group>
+  <root_contact>
+    <contact group_id_name="" display_name="Lobby 309" office_number="1001" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="" display_name="Lobby 311" office_number="1002" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="" display_name="Allison Willoughby" office_number="2407" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="" display_name="Amanda Isaacs" office_number="1041" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="" display_name="Amy Robertson" office_number="1154" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="" display_name="Angela Davis" office_number="1300" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="" display_name="Angela Judd" office_number="3013" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="" display_name="Angela Smith" office_number="1109" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="" display_name="Ashley Flanary" office_number="1235" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="" display_name="Athea Watkins" office_number="2205" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="" display_name="Brandon Campbell" office_number="1119" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="" display_name="Brenda Plowman" office_number="1158" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="" display_name="Cameron Walters" office_number="1139" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="" display_name="Cara Grace Cain" office_number="1170" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="" display_name="Cecily Sears" office_number="1191" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="" display_name="Chelsea Walker" office_number="3023" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="" display_name="Cheryl Muncy" office_number="2411" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="" display_name="Chris Slone" office_number="1157" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="" display_name="Christina Gibson" office_number="1303" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="" display_name="Cindy Herald" office_number="3000" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="" display_name="Clark Outreach 1" office_number="2501" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="" display_name="Clark Outreach 2" office_number="2502" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="" display_name="Clark Sr Cordless" office_number="2505" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="" display_name="Clark Sr Reception" office_number="2504" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="" display_name="Corrie Rice" office_number="1156" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="" display_name="Cynthia Romine" office_number="1132" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="" display_name="David Davis" office_number="1126" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="" display_name="David Estepp" office_number="101" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="" display_name="Diana Sims" office_number="2503" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="" display_name="ESH 116A" office_number="2404" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="" display_name="ESH 117A" office_number="2406" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="" display_name="ESH 119A" office_number="2403" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="" display_name="ESH 120A" office_number="2401" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="" display_name="ESH 121A" office_number="2402" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="" display_name="ESH Cordless 1" office_number="2412" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="" display_name="ESH Cordless 2" office_number="2413" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="" display_name="Elisha Shepherd" office_number="1052" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="" display_name="Elizabeth Walton" office_number="2409" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="" display_name="Estill Transportation" office_number="1184" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="" display_name="Estill Outreach Reception" office_number="1050" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="" display_name="Estill Outreach Reception 2" office_number="1051" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="" display_name="Front Desk" office_number="1100" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="" display_name="Front Desk Outreach" office_number="1160" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="" display_name="Georganna Kirby" office_number="1107" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="" display_name="HCH Estill Reception" office_number="2203" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="" display_name="Haleigh Bauer" office_number="3009" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="" display_name="Heather Elam" office_number="1164" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="" display_name="Heather Slone" office_number="1192" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="" display_name="Jackie Dean" office_number="1125" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="" display_name="Jenna Stone" office_number="3018" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="" display_name="Jimmy Stone" office_number="1181" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="" display_name="Joe Killin" office_number="1301" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="" display_name="Joe Wilkie" office_number="1108" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="" display_name="John Roden" office_number="2113" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="" display_name="Joy Baker" office_number="1118" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="" display_name="Judy Hibbs" office_number="3024" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="" display_name="Karen Atkins" office_number="1111" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="" display_name="Keith Lon" office_number="1129" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="" display_name="Kristy Ross" office_number="3001" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="" display_name="Laura Rogers" office_number="1124" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="" display_name="Lisa Edwards" office_number="1040" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="" display_name="Lisa Roark" office_number="1131" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="" display_name="Madison Outreach Volunteers" office_number="1168" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="" display_name="Matthew Rayburn" office_number="7778" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="" display_name="Melissa Gross" office_number="1135" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="" display_name="Michelle Kiser" office_number="3010" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="" display_name="Mindy Bowen" office_number="1246" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="" display_name="Mindy Stevens" office_number="1153" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="" display_name="Misty Ramsey" office_number="3005" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="" display_name="Nancy Brandenburg" office_number="3011" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="" display_name="Outreach IT Front Desk" office_number="1171" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="" display_name="Paula Adams" office_number="1138" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="" display_name="Powell Adult Daycare" office_number="1245" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="" display_name="Powell Outreach 1" office_number="1236" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="" display_name="Powell Outreach 2" office_number="1237" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="" display_name="Powell Outreach Office 2" office_number="1238" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="" display_name="Powell Seniors Cordless" office_number="2300" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="" display_name="Procedure Room" office_number="3022" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="" display_name="Rae Jean Miller" office_number="2500" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="" display_name="Richmond Sr Kitchen" office_number="1194" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="" display_name="Richmond Sr Reception" office_number="1193" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="" display_name="Richmond Sr Spare Office" office_number="1195" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="" display_name="Rob Slone" office_number="1165" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="" display_name="Robert Lair" office_number="2110" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="" display_name="Robin Foster" office_number="1122" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="" display_name="Rose Stepp" office_number="3002" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="" display_name="Sarah Hunter" office_number="3012" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="" display_name="Scholar House" office_number="2400" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="" display_name="Scholar House Reception" office_number="2408" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="" display_name="Shad Stewart" office_number="1136" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="" display_name="Shelly Howard" office_number="1162" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="" display_name="Tearanie Mills" office_number="1161" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="" display_name="Tiffany C Turner" office_number="2115" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="" display_name="Tiffany Turner" office_number="3006" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="" display_name="Tina Hymer" office_number="1103" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="" display_name="Tisha Evans" office_number="1117" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="" display_name="Tori Marcum" office_number="3016" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="" display_name="Travis Marshall" office_number="2204" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="" display_name="Tressie Parrott" office_number="3004" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="" display_name="Tyler Burris" office_number="1102" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="" display_name="Unified Technologies" office_number="7777" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="" display_name="Virginia Embree" office_number="1120" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="" display_name="Zach White" office_number="1145" mobile_number="" other_number="" default_photo="Resource:"/>
+  </root_contact>
+</vp_contact>
